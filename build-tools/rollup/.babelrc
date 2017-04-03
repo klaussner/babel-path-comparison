@@ -1,0 +1,3 @@
+{
+  "plugins": ["../../path-reporter-plugin.js"]
+}
