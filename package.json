@@ -1,0 +1,6 @@
+{
+  "name": "babel-path-comparison",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shows how build tools report file paths to Babel plugins"
+}
