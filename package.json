@@ -4,7 +4,9 @@
   "private": true,
   "description": "Shows how build tools report file paths to Babel plugins",
   "devDependencies": {
+    "babel-loader": "^6.4.1",
     "babelify": "^7.3.0",
-    "browserify": "^14.1.0"
+    "browserify": "^14.1.0",
+    "webpack": "^2.3.3"
   }
 }
