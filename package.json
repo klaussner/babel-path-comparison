@@ -2,5 +2,9 @@
   "name": "babel-path-comparison",
   "version": "1.0.0",
   "private": true,
-  "description": "Shows how build tools report file paths to Babel plugins"
+  "description": "Shows how build tools report file paths to Babel plugins",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^14.1.0"
+  }
 }
